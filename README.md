@@ -87,10 +87,6 @@ Generated Response
 
 <img width="1917" height="880" alt="Screenshot 2026-06-22 135414" src="https://github.com/user-attachments/assets/30b76aa8-d6c1-4ae3-a279-c0d370267426" />
 
-### AI Agent in Action
-
-> Add your AI response screenshot here
-
 ```markdown
 ![AI Response](screenshots/ai-response.png)
 ```
