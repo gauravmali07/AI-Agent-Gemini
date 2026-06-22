@@ -83,11 +83,9 @@ Generated Response
 
 ### Workflow Architecture
 
-> Add your workflow screenshot here
+<img width="1917" height="885" alt="Screenshot 2026-06-22 135504" src="https://github.com/user-attachments/assets/c6a99591-ffe6-4aeb-93a5-bf551664a72d" />
 
-```markdown
-![Workflow](screenshots/workflow.png)
-```
+<img width="1917" height="880" alt="Screenshot 2026-06-22 135414" src="https://github.com/user-attachments/assets/30b76aa8-d6c1-4ae3-a279-c0d370267426" />
 
 ### AI Agent in Action
 
